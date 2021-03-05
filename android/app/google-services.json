@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "302002266240",
+    "project_id": "facturatickets",
+    "storage_bucket": "facturatickets.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302002266240:android:ea588fb30cf4cee0828665",
+        "android_client_info": {
+          "package_name": "com.factura"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302002266240-t0rk2b160enkn39ir06c1v00hvi4elgo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.factura",
+            "certificate_hash": "d8d63885984b3e3c1237fac5374e99c130ae6913"
+          }
+        },
+        {
+          "client_id": "302002266240-5kb31q8450t5gd0svct5d1s1fqk63e1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGVqAwtS9ru5CmLkE8wjboXWR-VubJ4Ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302002266240-5kb31q8450t5gd0svct5d1s1fqk63e1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
